@@ -12,3 +12,4 @@ Enter the entire math equation firstly. <br/>
 After caculation, enter c for continue, q for quit the program. <br/>
 
 ## Example
+![alt text](https://github.com/JeffreyC1998/calculator/blob/master/result.JPG) <br/>
