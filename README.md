@@ -10,8 +10,8 @@ After typing each equation, users can choose either do the next calculation or q
 ## Instruction
 Enter the entire mathematic equation firstly. <br/>
 After caculation, there are two character for next instruction: <br/>
-  _enter c for continue, 
-  _q for quit the program.
+  1. c for continue, 
+  2. q for quit the program.
 
 ## Example
 ![alt text](https://github.com/JeffreyC1998/calculator/blob/master/result.JPG) <br/>
